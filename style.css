@@ -72,3 +72,6 @@ header {
   border-radius: 10px;
   background: #eee;
 }
+.card h3 {
+  margin: 10px 0 5px 0;
+}
