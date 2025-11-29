@@ -4,11 +4,11 @@ body {
   margin: 0;
 }
 
-/* Login/Register */
+/* Login and Register */
 .login-box, .form-box {
   width: 350px;
   margin: 80px auto;
-  background: #f4e8e8;
+  background: #9cb4db;
   padding: 25px;
   border-radius: 12px;
   box-shadow: 0 0 10px #ddd;
