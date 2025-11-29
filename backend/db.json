@@ -1,0 +1,12 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "fidan",
+      "password": "1234",
+      "cars": []
+    }
+  ],
+
+  "allCars": []
+}
